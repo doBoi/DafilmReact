@@ -9,7 +9,7 @@ function App() {
     method: 'GET',
     headers: {
       accept: 'application/json',
-      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5NDk2OTJmM2ZjODYyNmQyYjYyM2FiYTBjODg2YWRiNSIsInN1YiI6IjYzZWU0ZWVlNjk5ZmI3MDA4Y2Q2ZmRkNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.lf7hO4YrqvLyrDQagavzkfzkJa3iJUWc5J3Q35RS_2w'
+      Authorization: 'your key form TMDb'
     }
   };
 
