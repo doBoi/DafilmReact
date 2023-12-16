@@ -13,7 +13,7 @@ Dafilm - Sebuah aplikasi website yang menampilkan data film dari API TMDb.
 
 ## Installation
 
-clone dafilm with composer
+clone dafilm
 
 ```bash
     git clone https://github.com/doBoi/dafilm-React.git
@@ -25,7 +25,7 @@ clone dafilm with composer
     cd nama-proyek
 ```
 
-‌Install dependensi dengan Composer:
+‌Install dependensi dengan Npm:
 
 ```bash
      npm install
