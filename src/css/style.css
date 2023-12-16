@@ -1,0 +1,18 @@
+/** @format */
+
+.bg-popular {
+	height: auto;
+	background: url("../assets/images/bg/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg");
+	background-size: cover;
+}
+.loading {
+	height: 100vh;
+	background: url("../assets/images/bg/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg");
+	background-size: cover;
+}
+
+.bg-nowPlaying {
+	height: auto;
+	background: url("../assets/images/bg/krists-luhaers-AtPWnYNDJnM-unsplash.jpg");
+	background-size: cover;
+}
