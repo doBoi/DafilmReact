@@ -1,6 +1,6 @@
 # Dafilm
 
-Dafilm - Sebuah aplikasi website yang menampilkan data film dari API TMDb.
+Dafilm - Sebuah aplikasi website berbasis React yang menampilkan data film dari API TMDb.
 
 ## Lingkungan Pengembangan:
 
